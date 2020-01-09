@@ -1,0 +1,8 @@
+{
+    "MLPNN": {
+        "Dropout_Rate": 0.25,
+        "L2_Lambda": 1e-05,
+        "Num_Layers": 3,
+        "Num_Nodes": 32
+    }
+}
